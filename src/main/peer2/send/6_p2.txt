@@ -1,0 +1,86 @@
+In order to be validated without the intervention of a trusted third party, transactions
+require some processing at the peer nodes to ascertain with corroborate
+evidence: their origin (i.e. the identities of their transactors), the fact that the
+resources deemed to be transacted are effectively possessed by the transactors,
+and – last but not least – that only the recipients satisfying the conditions required
+by transactors are accounted for such resources.
+A key point in Bitcoin, and more generally in blockchain-based systems, is that
+transactions include code that can be customized by the transactor in order to
+allow for different kinds of verification procedures.
+To verify that inputs are authorized to collect the values of referenced outputs,
+Bitcoin uses a scripting system which resembles to Forth []. With reference
+to Figure 2, the input’s SgnCode (denoted as scriptSig in the code) and the
+referenced output’s VrfCode (scriptPubKey) are evaluated, and the input is authorized
+only if scriptPubKey returns true. Through the scripting system, the
+transactor can create many different conditions that peers have to meet in order
+to claim the output’s value. For example, it’s possible to create outputs that
+can be claimed by anyone without any authorization, or that require multiple
+signatures, or that can be redeemable with a password instead of a key.In order to be validated without the intervention of a trusted third party, transactions
+require some processing at the peer nodes to ascertain with corroborate
+evidence: their origin (i.e. the identities of their transactors), the fact that the
+resources deemed to be transacted are effectively possessed by the transactors,
+and – last but not least – that only the recipients satisfying the conditions required
+by transactors are accounted for such resources.
+A key point in Bitcoin, and more generally in blockchain-based systems, is that
+transactions include code that can be customized by the transactor in order to
+allow for different kinds of verification procedures.
+To verify that inputs are authorized to collect the values of referenced outputs,
+Bitcoin uses a scripting system which resembles to Forth []. With reference
+to Figure 2, the input’s SgnCode (denoted as scriptSig in the code) and the
+referenced output’s VrfCode (scriptPubKey) are evaluated, and the input is authorized
+only if scriptPubKey returns true. Through the scripting system, the
+transactor can create many different conditions that peers have to meet in order
+to claim the output’s value. For example, it’s possible to create outputs that
+can be claimed by anyone without any authorization, or that require multiple
+signatures, or that can be redeemable with a password instead of a key.In order to be validated without the intervention of a trusted third party, transactions
+require some processing at the peer nodes to ascertain with corroborate
+evidence: their origin (i.e. the identities of their transactors), the fact that the
+resources deemed to be transacted are effectively possessed by the transactors,
+and – last but not least – that only the recipients satisfying the conditions required
+by transactors are accounted for such resources.
+A key point in Bitcoin, and more generally in blockchain-based systems, is that
+transactions include code that can be customized by the transactor in order to
+allow for different kinds of verification procedures.
+To verify that inputs are authorized to collect the values of referenced outputs,
+Bitcoin uses a scripting system which resembles to Forth []. With reference
+to Figure 2, the input’s SgnCode (denoted as scriptSig in the code) and the
+referenced output’s VrfCode (scriptPubKey) are evaluated, and the input is authorized
+only if scriptPubKey returns true. Through the scripting system, the
+transactor can create many different conditions that peers have to meet in order
+to claim the output’s value. For example, it’s possible to create outputs that
+can be claimed by anyone without any authorization, or that require multiple
+signatures, or that can be redeemable with a password instead of a key.In order to be validated without the intervention of a trusted third party, transactions
+require some processing at the peer nodes to ascertain with corroborate
+evidence: their origin (i.e. the identities of their transactors), the fact that the
+resources deemed to be transacted are effectively possessed by the transactors,
+and – last but not least – that only the recipients satisfying the conditions required
+by transactors are accounted for such resources.
+A key point in Bitcoin, and more generally in blockchain-based systems, is that
+transactions include code that can be customized by the transactor in order to
+allow for different kinds of verification procedures.
+To verify that inputs are authorized to collect the values of referenced outputs,
+Bitcoin uses a scripting system which resembles to Forth []. With reference
+to Figure 2, the input’s SgnCode (denoted as scriptSig in the code) and the
+referenced output’s VrfCode (scriptPubKey) are evaluated, and the input is authorized
+only if scriptPubKey returns true. Through the scripting system, the
+transactor can create many different conditions that peers have to meet in order
+to claim the output’s value. For example, it’s possible to create outputs that
+can be claimed by anyone without any authorization, or that require multiple
+signatures, or that can be redeemable with a password instead of a key.In order to be validated without the intervention of a trusted third party, transactions
+require some processing at the peer nodes to ascertain with corroborate
+evidence: their origin (i.e. the identities of their transactors), the fact that the
+resources deemed to be transacted are effectively possessed by the transactors,
+and – last but not least – that only the recipients satisfying the conditions required
+by transactors are accounted for such resources.
+A key point in Bitcoin, and more generally in blockchain-based systems, is that
+transactions include code that can be customized by the transactor in order to
+allow for different kinds of verification procedures.
+To verify that inputs are authorized to collect the values of referenced outputs,
+Bitcoin uses a scripting system which resembles to Forth []. With reference
+to Figure 2, the input’s SgnCode (denoted as scriptSig in the code) and the
+referenced output’s VrfCode (scriptPubKey) are evaluated, and the input is authorized
+only if scriptPubKey returns true. Through the scripting system, the
+transactor can create many different conditions that peers have to meet in order
+to claim the output’s value. For example, it’s possible to create outputs that
+can be claimed by anyone without any authorization, or that require multiple
+signatures, or that can be redeemable with a password instead of a key.

@@ -1,0 +1,112 @@
+Since the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used byAbdullah 13
+Since the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used bySince the validation of transactions relies upon digital signatures verified by
+system nodes, and nodes are implemented through a special software termed
+wallet, then there must be a mapping between wallets and (sets of) signature
+verification keys.
+Signature verification keys are often linked to identifiers or pseudonyms valid
+only in the system context, called addresses, rather than real-life names and
+identities as in public-key certificate (PKC) based infrastructures [25]. This way,
+no trusted third party is required to ascertain the real identities of people and
+devices involved in the system; moreover, users can hope for some anonymity.
+Users’ anonimity is a (controversial) feature aimed by many cryptocurrencies,
+and this is one reason for the possibility to have different user identifiers associated
+with the same wallet. Actually, verification keys could be used by

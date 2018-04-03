@@ -1,0 +1,41 @@
+As we told previously, the scope of a transaction is to keep track of the resource
+paths (both the granting of new resources and resource transfers) occurring
+among system nodes. In this way each node can verify the amount and addressing
+of the newly created resources, as well as the balance between resources
+requested for the transaction and resources transferred to recipients. In order
+to accomplish that, a transaction encodes those amounts as suitable data
+structures, called transaction inputs and outputs, respectively.
+A transaction input composes of data indicating the source of the resources
+that a transactor P wishes to transfer, plus a scripting code whose processing
+should guarantee to every node in the system that P is actually authorized to
+redeem per se those resources.As we told previously, the scope of a transaction is to keep track of the resource
+paths (both the granting of new resources and resource transfers) occurring
+among system nodes. In this way each node can verify the amount and addressing
+of the newly created resources, as well as the balance between resources
+requested for the transaction and resources transferred to recipients. In order
+to accomplish that, a transaction encodes those amounts as suitable data
+structures, called transaction inputs and outputs, respectively.
+A transaction input composes of data indicating the source of the resources
+that a transactor P wishes to transfer, plus a scripting code whose processing
+should guarantee to every node in the system that P is actually authorized to
+redeem per se those resources.As we told previously, the scope of a transaction is to keep track of the resource
+paths (both the granting of new resources and resource transfers) occurring
+among system nodes. In this way each node can verify the amount and addressing
+of the newly created resources, as well as the balance between resources
+requested for the transaction and resources transferred to recipients. In order
+to accomplish that, a transaction encodes those amounts as suitable data
+structures, called transaction inputs and outputs, respectively.
+A transaction input composes of data indicating the source of the resources
+that a transactor P wishes to transfer, plus a scripting code whose processing
+should guarantee to every node in the system that P is actually authorized to
+redeem per se those resources.As we told previously, the scope of a transaction is to keep track of the resource
+paths (both the granting of new resources and resource transfers) occurring
+among system nodes. In this way each node can verify the amount and addressing
+of the newly created resources, as well as the balance between resources
+requested for the transaction and resources transferred to recipients. In order
+to accomplish that, a transaction encodes those amounts as suitable data
+structures, called transaction inputs and outputs, respectively.
+A transaction input composes of data indicating the source of the resources
+that a transactor P wishes to transfer, plus a scripting code whose processing
+should guarantee to every node in the system that P is actually authorized to
+redeem per se those resources.

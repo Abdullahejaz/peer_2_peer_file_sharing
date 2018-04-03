@@ -1,0 +1,28 @@
+themselves as addresses in the system, since for their purpose they must be
+kept publicly available. However, this approach is inappropriate if non-volatile
+addresses are required, since key management imposes practices such as key
+upgrading and key revocation [26]. These considerations do not seem to have
+influenced the designers of Bitcoin and many other blockchain-based systems,
+where addresses are obtained as hash digests from verification keys, apparently
+at the sole scope of obtaining shorter identifiers [27]. For example, Bitcoin addresses
+are base58-encoded strings containing an address version number, the
+digest got by hashing an ECDSA [28] verification key with the RIPEMD-160
+algorithm [29], and an error-detection checksum to catch typos [27].themselves as addresses in the system, since for their purpose they must be
+kept publicly available. However, this approach is inappropriate if non-volatile
+addresses are required, since key management imposes practices such as key
+upgrading and key revocation [26]. These considerations do not seem to have
+influenced the designers of Bitcoin and many other blockchain-based systems,
+where addresses are obtained as hash digests from verification keys, apparently
+at the sole scope of obtaining shorter identifiers [27]. For example, Bitcoin addresses
+are base58-encoded strings containing an address version number, the
+digest got by hashing an ECDSA [28] verification key with the RIPEMD-160
+algorithm [29], and an error-detection checksum to catch typos [27].themselves as addresses in the system, since for their purpose they must be
+kept publicly available. However, this approach is inappropriate if non-volatile
+addresses are required, since key management imposes practices such as key
+upgrading and key revocation [26]. These considerations do not seem to have
+influenced the designers of Bitcoin and many other blockchain-based systems,
+where addresses are obtained as hash digests from verification keys, apparently
+at the sole scope of obtaining shorter identifiers [27]. For example, Bitcoin addresses
+are base58-encoded strings containing an address version number, the
+digest got by hashing an ECDSA [28] verification key with the RIPEMD-160
+algorithm [29], and an error-detection checksum to catch typos [27].

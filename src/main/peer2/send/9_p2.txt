@@ -1,0 +1,62 @@
+Particularly relevant seems in this respect Ethereum (see §2.1), which uses its
+own digital coin, called ether, to “fuel” the execution of applications stored on
+its blockchain. Fueling is designed as a way to pay for the execution of Ethereum
+bytecode and storage of data on the blockchain. How much a specific computation
+will cost is defined by the complexity of the computation in term of its
+basic operations, as follows. Basic operations such as addition, subtraction and
+multiplication cost one “unit of gas”, as indicated by the parameter GASPRICE;
+at the moment of writing GASPRICE = 10-6 ether. The Ethereum virtual ma-
+chine (EVM), after the compilation of the code related to a given transaction,
+computes the amount NUMBAOPS of its basic operations and fixes the total cost
+for the transaction as:
+Particularly relevant seems in this respect Ethereum (see §2.1), which uses its
+own digital coin, called ether, to “fuel” the execution of applications stored on
+its blockchain. Fueling is designed as a way to pay for the execution of Ethereum
+bytecode and storage of data on the blockchain. How much a specific computation
+will cost is defined by the complexity of the computation in term of its
+basic operations, as follows. Basic operations such as addition, subtraction and
+multiplication cost one “unit of gas”, as indicated by the parameter GASPRICE;
+at the moment of writing GASPRICE = 10-6 ether. The Ethereum virtual ma-
+chine (EVM), after the compilation of the code related to a given transaction,
+computes the amount NUMBAOPS of its basic operations and fixes the total cost
+for the transaction as:Particularly relevant seems in this respect Ethereum (see §2.1), which uses its
+own digital coin, called ether, to “fuel” the execution of applications stored on
+its blockchain. Fueling is designed as a way to pay for the execution of Ethereum
+bytecode and storage of data on the blockchain. How much a specific computation
+will cost is defined by the complexity of the computation in term of its
+basic operations, as follows. Basic operations such as addition, subtraction and
+multiplication cost one “unit of gas”, as indicated by the parameter GASPRICE;
+at the moment of writing GASPRICE = 10-6 ether. The Ethereum virtual ma-
+chine (EVM), after the compilation of the code related to a given transaction,
+computes the amount NUMBAOPS of its basic operations and fixes the total cost
+for the transaction as:Particularly relevant seems in this respect Ethereum (see §2.1), which uses its
+own digital coin, called ether, to “fuel” the execution of applications stored on
+its blockchain. Fueling is designed as a way to pay for the execution of Ethereum
+bytecode and storage of data on the blockchain. How much a specific computation
+will cost is defined by the complexity of the computation in term of its
+basic operations, as follows. Basic operations such as addition, subtraction and
+multiplication cost one “unit of gas”, as indicated by the parameter GASPRICE;
+at the moment of writing GASPRICE = 10-6 ether. The Ethereum virtual ma-
+chine (EVM), after the compilation of the code related to a given transaction,
+computes the amount NUMBAOPS of its basic operations and fixes the total cost
+for the transaction as:Particularly relevant seems in this respect Ethereum (see §2.1), which uses its
+own digital coin, called ether, to “fuel” the execution of applications stored on
+its blockchain. Fueling is designed as a way to pay for the execution of Ethereum
+bytecode and storage of data on the blockchain. How much a specific computation
+will cost is defined by the complexity of the computation in term of its
+basic operations, as follows. Basic operations such as addition, subtraction and
+multiplication cost one “unit of gas”, as indicated by the parameter GASPRICE;
+at the moment of writing GASPRICE = 10-6 ether. The Ethereum virtual ma-
+chine (EVM), after the compilation of the code related to a given transaction,
+computes the amount NUMBAOPS of its basic operations and fixes the total cost
+for the transaction as:Particularly relevant seems in this respect Ethereum (see §2.1), which uses its
+own digital coin, called ether, to “fuel” the execution of applications stored on
+its blockchain. Fueling is designed as a way to pay for the execution of Ethereum
+bytecode and storage of data on the blockchain. How much a specific computation
+will cost is defined by the complexity of the computation in term of its
+basic operations, as follows. Basic operations such as addition, subtraction and
+multiplication cost one “unit of gas”, as indicated by the parameter GASPRICE;
+at the moment of writing GASPRICE = 10-6 ether. The Ethereum virtual ma-
+chine (EVM), after the compilation of the code related to a given transaction,
+computes the amount NUMBAOPS of its basic operations and fixes the total cost
+for the transaction as:

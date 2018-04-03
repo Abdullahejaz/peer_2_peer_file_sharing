@@ -1,0 +1,51 @@
+Beyond smart contracts, blockchain technology enables the creation of smart
+properties. The key idea of smart property [14] is the assertion of ownership
+rights for an asset through its registration in the blockchain, secured by means
+of a private key. Only who has got the private key can ascertain its ownership
+of the asset, which on the other hand can be verifed by anyone thanks to the
+corresponding public key. The owner could later sell the asset by givig its
+corresponding private key to another user, e.g. through the completion of a
+smart contract.
+Some types of property like trademarks, copyrights and patents are inherently
+smart properties, and their management as such is natural and can be
+fruitful. Indeed these entitlements can be easily encoded and processed as digital
+documents. This is not the case with physical assets, where ownership is
+more exposed to frauds. In fact in order to register a chattel (e.g a car) in the
+blockchain, we need to attach a uniquely identifiable tag or a chip to it. If the
+information contained in that tag or chip could be altered, or the tag/chip could
+be detached, smart property would not be guaranteed.
+An actual implementation of smart properties is colored coins. Using this
+term we are talking about a class of methods for representing and managing
+real world assets on top of the Bitcoin blockchain. In fact it is possible to store
+a small amounts of metadata on the blockchain to represent asset manipulation
+instructions. One can encode in a Bitcoin transaction the information that some
+units of a new asset were issued and credited to a given Bitcoin address, and
+a real world value can correspond to those units with the issuer’s promise to
+redeem them for some goods or services. For example, a car dealer can issue
+100 units of a “Buy car X during the time promotional period Y” asset, and
+promise to redeem each unit for a right to buy a certain kind of car as part of
+a promotional offer [15].
+
+The newly introduced Ethereum platform is a blockchain-based system aimed at
+running applications exactly as programmed, without any possibility of downtime,
+censorship, fraud or third party interference [13]. Ethereum, by implementing
+a generic programmable blockchain, enables the execution of stateful,
+fully-customizable smart contracts. Some examples of applications that
+Ethereum can be used for are: voting systems, domain name registries, financial
+exchanges, crowdfunding platforms, company governance, intellectual property
+and smart property (see §2.2).
+Ethereum can be described as a virtual machine which makes use of a
+blockchain with a built-in programming language for developing and deploying
+distributed applications [13]. What takes care of the internal state and the
+computations as specified in the blockchain is indeed the so-called Ethereum
+Virtual Machine (EVM). Basically, the EVM works in the same way as any
+other virtual machine: it takes some high level programming language designed
+for writing smart contracts, and compiles it into EVM bytecode that the computer,
+on which it runs, understands. The EVM can be thought of as a large
+decentralised computer containing millions of objects called accounts. Accounts
+have the ability to maintain an internal database, execute code and talk to
+other accounts. A smart contract is itself an account. Externally owned ac-
+counts (EOAs) are controlled by private keys: if you own the key belonging to a
+given EOA, you have the ability to send ether – the Ethereum’s cryptocurrency
+– and messages from such EOA to other accounts in the system.
+4

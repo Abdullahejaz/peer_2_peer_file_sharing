@@ -1,0 +1,43 @@
+In one form or another, mining is at the heart of any current blockchain-based
+system. Mining is indeed the way the system imposes a computational cost
+for the recording of new transaction blocks into the blockchain, so to mitigate
+the double-spending threat. An important point to stress here, since often
+misunderstood, is that the goal of a mining protocol does not actually consist
+in the determination of the miner in charge of block recording, but rather of the
+set of miners that are eligible for recording a new block in the blockchain (see
+§3.6).In one form or another, mining is at the heart of any current blockchain-based
+system. Mining is indeed the way the system imposes a computational cost
+for the recording of new transaction blocks into the blockchain, so to mitigate
+the double-spending threat. An important point to stress here, since often
+misunderstood, is that the goal of a mining protocol does not actually consist
+in the determination of the miner in charge of block recording, but rather of the
+set of miners that are eligible for recording a new block in the blockchain (see
+§3.6).In one form or another, mining is at the heart of any current blockchain-based
+system. Mining is indeed the way the system imposes a computational cost
+for the recording of new transaction blocks into the blockchain, so to mitigate
+the double-spending threat. An important point to stress here, since often
+misunderstood, is that the goal of a mining protocol does not actually consist
+in the determination of the miner in charge of block recording, but rather of the
+set of miners that are eligible for recording a new block in the blockchain (see
+§3.6).In one form or another, mining is at the heart of any current blockchain-based
+system. Mining is indeed the way the system imposes a computational cost
+for the recording of new transaction blocks into the blockchain, so to mitigate
+the double-spending threat. An important point to stress here, since often
+misunderstood, is that the goal of a mining protocol does not actually consist
+in the determination of the miner in charge of block recording, but rather of the
+set of miners that are eligible for recording a new block in the blockchain (see
+§3.6).In one form or another, mining is at the heart of any current blockchain-based
+system. Mining is indeed the way the system imposes a computational cost
+for the recording of new transaction blocks into the blockchain, so to mitigate
+the double-spending threat. An important point to stress here, since often
+misunderstood, is that the goal of a mining protocol does not actually consist
+in the determination of the miner in charge of block recording, but rather of the
+set of miners that are eligible for recording a new block in the blockchain (see
+§3.6).In one form or another, mining is at the heart of any current blockchain-based
+system. Mining is indeed the way the system imposes a computational cost
+for the recording of new transaction blocks into the blockchain, so to mitigate
+the double-spending threat. An important point to stress here, since often
+misunderstood, is that the goal of a mining protocol does not actually consist
+in the determination of the miner in charge of block recording, but rather of the
+set of miners that are eligible for recording a new block in the blockchain (see
+§3.6).

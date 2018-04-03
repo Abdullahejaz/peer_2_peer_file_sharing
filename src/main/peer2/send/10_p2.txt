@@ -1,0 +1,82 @@
+Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.Notice that each transaction is limited on the number of computational steps
+for the code execution it can generate, since those steps are proportional to the
+transaction cost in ether. If a transaction execution “runs out of gas”, then
+all state changes revert except for the payment of the fees; conversely, if the
+execution halts with some gas remaining, then the remaining portion of the fees
+is refunded to the transactor.
+One of the high-level programming language used to write Ethereum contracts
+is termed Serpent [8], which was designed to be very similar to Python. Unlike
+the Bitcoin scripting language Script, Serpent is Turing-complete [33]; infinite
+loops in code can indeed be avoided thanks to the fueling mechanism.

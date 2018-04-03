@@ -1,0 +1,79 @@
+The idea in Bitcoin was to assign the task of assessing the correct matching
+of standard transactions to special nodes called miners, and to reward miners
+for their work with some (optional) transaction fees plus new generated coins.
+Thus, each miner must associate a generation transaction to the processed standard
+transactions. Hence standard transactions are grouped together so that
+they refer to the same generation transaction, thus the miner could eventually
+be awarded with newly generated coins and relative transaction fees (see §3.2).
+Moreover, it is better to group several standard transactions together, since the
+network overhead could eventually grow in an unfeasible way if many transactions
+ensues.
+Following this idea, the “unit of mining” becomes the transaction block, a data
+structure grouping one or many standard transactions (by one or more transactors)
+with a single generation transaction. This is where the blockchain technology
+comes into play.The idea in Bitcoin was to assign the task of assessing the correct matching
+of standard transactions to special nodes called miners, and to reward miners
+for their work with some (optional) transaction fees plus new generated coins.
+Thus, each miner must associate a generation transaction to the processed standard
+transactions. Hence standard transactions are grouped together so that
+they refer to the same generation transaction, thus the miner could eventually
+be awarded with newly generated coins and relative transaction fees (see §3.2).
+Moreover, it is better to group several standard transactions together, since the
+network overhead could eventually grow in an unfeasible way if many transactions
+ensues.
+Following this idea, the “unit of mining” becomes the transaction block, a data
+structure grouping one or many standard transactions (by one or more transactors)
+with a single generation transaction. This is where the blockchain technology
+comes into play.The idea in Bitcoin was to assign the task of assessing the correct matching
+of standard transactions to special nodes called miners, and to reward miners
+for their work with some (optional) transaction fees plus new generated coins.
+Thus, each miner must associate a generation transaction to the processed standard
+transactions. Hence standard transactions are grouped together so that
+they refer to the same generation transaction, thus the miner could eventually
+be awarded with newly generated coins and relative transaction fees (see §3.2).
+Moreover, it is better to group several standard transactions together, since the
+network overhead could eventually grow in an unfeasible way if many transactions
+ensues.
+Following this idea, the “unit of mining” becomes the transaction block, a data
+structure grouping one or many standard transactions (by one or more transactors)
+with a single generation transaction. This is where the blockchain technology
+comes into play.The idea in Bitcoin was to assign the task of assessing the correct matching
+of standard transactions to special nodes called miners, and to reward miners
+for their work with some (optional) transaction fees plus new generated coins.
+Thus, each miner must associate a generation transaction to the processed standard
+transactions. Hence standard transactions are grouped together so that
+they refer to the same generation transaction, thus the miner could eventually
+be awarded with newly generated coins and relative transaction fees (see §3.2).
+Moreover, it is better to group several standard transactions together, since the
+network overhead could eventually grow in an unfeasible way if many transactions
+ensues.
+Following this idea, the “unit of mining” becomes the transaction block, a data
+structure grouping one or many standard transactions (by one or more transactors)
+with a single generation transaction. This is where the blockchain technology
+comes into play.The idea in Bitcoin was to assign the task of assessing the correct matching
+of standard transactions to special nodes called miners, and to reward miners
+for their work with some (optional) transaction fees plus new generated coins.
+Thus, each miner must associate a generation transaction to the processed standard
+transactions. Hence standard transactions are grouped together so that
+they refer to the same generation transaction, thus the miner could eventually
+be awarded with newly generated coins and relative transaction fees (see §3.2).
+Moreover, it is better to group several standard transactions together, since the
+network overhead could eventually grow in an unfeasible way if many transactions
+ensues.
+Following this idea, the “unit of mining” becomes the transaction block, a data
+structure grouping one or many standard transactions (by one or more transactors)
+with a single generation transaction. This is where the blockchain technology
+comes into play.The idea in Bitcoin was to assign the task of assessing the correct matching
+of standard transactions to special nodes called miners, and to reward miners
+for their work with some (optional) transaction fees plus new generated coins.
+Thus, each miner must associate a generation transaction to the processed standard
+transactions. Hence standard transactions are grouped together so that
+they refer to the same generation transaction, thus the miner could eventually
+be awarded with newly generated coins and relative transaction fees (see §3.2).
+Moreover, it is better to group several standard transactions together, since the
+network overhead could eventually grow in an unfeasible way if many transactions
+ensues.
+Following this idea, the “unit of mining” becomes the transaction block, a data
+structure grouping one or many standard transactions (by one or more transactors)
+with a single generation transaction. This is where the blockchain technology
+comes into play.

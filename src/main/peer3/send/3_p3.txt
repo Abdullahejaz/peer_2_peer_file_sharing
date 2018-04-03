@@ -1,0 +1,33 @@
+However, the shift from single transactions to transaction blocks exposes
+again the system to double-spending problems. Indeed, in the context of an
+organization of recorded data in transaction blocks, chains of transfer paths
+cannot be easily managed and validated through digital signatures as described
+in §3.2. To overcome this difficulty, the designer(s) of Bitcoin introduced a new
+chaining mechanism, in this case between different blocks.
+Roughly speaking, it consists in inserting a cryptographic hash digest related
+to the preceding block in the current block. Since a cryptographic hash digest
+is supposed to correspond univocally to its originating data with overhelming
+probability, then the above approach results in the circumstance that any tampering
+in a given block involves changes in all its subsequent blocks. This way,
+in order to achieve its purpose, a malicious miner has to be faster than the honest
+miners in mining transaction blocks. Therefore the double-spending threat
+is mitigated by making the mining of a transaction block a costly operation.
+Overall, the management of the blockchain - that is, the collection of new
+transactions and their insertion upon validation in the chain of previous blocks
+- is a process composed of the following steps:However, the shift from single transactions to transaction blocks exposes
+again the system to double-spending problems. Indeed, in the context of an
+organization of recorded data in transaction blocks, chains of transfer paths
+cannot be easily managed and validated through digital signatures as described
+in §3.2. To overcome this difficulty, the designer(s) of Bitcoin introduced a new
+chaining mechanism, in this case between different blocks.
+Roughly speaking, it consists in inserting a cryptographic hash digest related
+to the preceding block in the current block. Since a cryptographic hash digest
+is supposed to correspond univocally to its originating data with overhelming
+probability, then the above approach results in the circumstance that any tampering
+in a given block involves changes in all its subsequent blocks. This way,
+in order to achieve its purpose, a malicious miner has to be faster than the honest
+miners in mining transaction blocks. Therefore the double-spending threat
+is mitigated by making the mining of a transaction block a costly operation.
+Overall, the management of the blockchain - that is, the collection of new
+transactions and their insertion upon validation in the chain of previous blocks
+- is a process composed of the following steps:

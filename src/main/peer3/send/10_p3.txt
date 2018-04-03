@@ -1,0 +1,31 @@
+Since January 2009, when Bitcoin v0.1 was released and announced on a cryptography
+mailing list, there has been a growing interest on cryptocurrencies
+from various communities related in some way with Information Technology.
+In this section we will try to describe the main technical aspects at the basis
+of what we called “blockchain-based systems”, at the current state of the art.
+Before going into details it can be useful to recap Bitcoin’s basic strategy by
+sketching its main operations. This can serve as a guideline before our diving
+into the technicalities, and we hope it will induce the reader to focus on the
+functional requirements pursued by the designers of these systems, rather than
+on their actual implementations. Table 1 reports the main special symbols used
+throughout the following, alongside with their meaning.Since January 2009, when Bitcoin v0.1 was released and announced on a cryptography
+mailing list, there has been a growing interest on cryptocurrencies
+from various communities related in some way with Information Technology.
+In this section we will try to describe the main technical aspects at the basis
+of what we called “blockchain-based systems”, at the current state of the art.
+Before going into details it can be useful to recap Bitcoin’s basic strategy by
+sketching its main operations. This can serve as a guideline before our diving
+into the technicalities, and we hope it will induce the reader to focus on the
+functional requirements pursued by the designers of these systems, rather than
+on their actual implementations. Table 1 reports the main special symbols used
+throughout the following, alongside with their meaning.Since January 2009, when Bitcoin v0.1 was released and announced on a cryptography
+mailing list, there has been a growing interest on cryptocurrencies
+from various communities related in some way with Information Technology.
+In this section we will try to describe the main technical aspects at the basis
+of what we called “blockchain-based systems”, at the current state of the art.
+Before going into details it can be useful to recap Bitcoin’s basic strategy by
+sketching its main operations. This can serve as a guideline before our diving
+into the technicalities, and we hope it will induce the reader to focus on the
+functional requirements pursued by the designers of these systems, rather than
+on their actual implementations. Table 1 reports the main special symbols used
+throughout the following, alongside with their meaning.

@@ -1,0 +1,108 @@
+The blockchain technology makes the execution of several smart contracts and
+smart properties possible, enabling their reciprocal interaction in a decentralized
+and distributed way. Decentralized autonomous organizations [5] operate
+according to rules and procedures defined by smart contracts, and on the basis of
+ownerships defined through smart properties. In these organizations, machines
+and people can cooperate without the need to be incorporated into traditional
+business identities.
+The decentralized autonomous organization concept derived from Artificial
+Intelligence: a decentralized network of autonomous agents perform tasks, which
+can be conceived in the model of a corporation running without any human
+involvement under the control of a set of business rules. Such organizations
+can charge users for the services they provide, in order to pay others for the
+resources they need. As long as they receive sufficient funds to operate on their
+own, they can thus subsist independently of any third party. If a decentralized
+organization is truly autonomous, no one (including its original creator) can
+control it after it has been deployed on the blockchain. That is actually a very
+threatening property: an organization could be conceived to evolve over time in
+order to adapt to the context in which it operates, thus it can be very difficult
+to know a priori if it can assume a dangerous state.
+From a different point of view, the concept of decentralized autonomous
+organization can actually be linked to the development of the Internet of Things
+(IoT). The IoT will consist of billions of Internet-enabled devices, but not all can
+be blindly trustworthy and some could be even malicious. In order to facilitate
+private, secure, and (trustless) machine-to-machine coordination, these devices
+will need a central reference point. In this context the ADePT (Autonomous
+Decentralized Peer-to-Peer Telemetry) [17], by IBM and Samsung, is building a
+proof of concept system for the next generation of the IoT
+The blockchain technology makes the execution of several smart contracts and
+smart properties possible, enabling their reciprocal interaction in a decentralized
+and distributed way. Decentralized autonomous organizations [5] operate
+according to rules and procedures defined by smart contracts, and on the basis of
+ownerships defined through smart properties. In these organizations, machines
+and people can cooperate without the need to be incorporated into traditional
+business identities.
+The decentralized autonomous organization concept derived from Artificial
+Intelligence: a decentralized network of autonomous agents perform tasks, which
+can be conceived in the model of a corporation running without any human
+involvement under the control of a set of business rules. Such organizations
+can charge users for the services they provide, in order to pay others for the
+resources they need. As long as they receive sufficient funds to operate on their
+own, they can thus subsist independently of any third party. If a decentralized
+organization is truly autonomous, no one (including its original creator) can
+control it after it has been deployed on the blockchain. That is actually a very
+threatening property: an organization could be conceived to evolve over time in
+order to adapt to the context in which it operates, thus it can be very difficult
+to know a priori if it can assume a dangerous state.
+From a different point of view, the concept of decentralized autonomous
+organization can actually be linked to the development of the Internet of Things
+(IoT). The IoT will consist of billions of Internet-enabled devices, but not all can
+be blindly trustworthy and some could be even malicious. In order to facilitate
+private, secure, and (trustless) machine-to-machine coordination, these devices
+will need a central reference point. In this context the ADePT (Autonomous
+Decentralized Peer-to-Peer Telemetry) [17], by IBM and Samsung, is building a
+proof of concept system for the next generation of the IoT
+The blockchain technology makes the execution of several smart contracts and
+smart properties possible, enabling their reciprocal interaction in a decentralized
+and distributed way. Decentralized autonomous organizations [5] operate
+according to rules and procedures defined by smart contracts, and on the basis of
+ownerships defined through smart properties. In these organizations, machines
+and people can cooperate without the need to be incorporated into traditional
+business identities.
+The decentralized autonomous organization concept derived from Artificial
+Intelligence: a decentralized network of autonomous agents perform tasks, which
+can be conceived in the model of a corporation running without any human
+involvement under the control of a set of business rules. Such organizations
+can charge users for the services they provide, in order to pay others for the
+resources they need. As long as they receive sufficient funds to operate on their
+own, they can thus subsist independently of any third party. If a decentralized
+organization is truly autonomous, no one (including its original creator) can
+control it after it has been deployed on the blockchain. That is actually a very
+threatening property: an organization could be conceived to evolve over time in
+order to adapt to the context in which it operates, thus it can be very difficult
+to know a priori if it can assume a dangerous state.
+From a different point of view, the concept of decentralized autonomous
+organization can actually be linked to the development of the Internet of Things
+(IoT). The IoT will consist of billions of Internet-enabled devices, but not all can
+be blindly trustworthy and some could be even malicious. In order to facilitate
+private, secure, and (trustless) machine-to-machine coordination, these devices
+will need a central reference point. In this context the ADePT (Autonomous
+Decentralized Peer-to-Peer Telemetry) [17], by IBM and Samsung, is building a
+proof of concept system for the next generation of the IoT
+The blockchain technology makes the execution of several smart contracts and
+smart properties possible, enabling their reciprocal interaction in a decentralized
+and distributed way. Decentralized autonomous organizations [5] operate
+according to rules and procedures defined by smart contracts, and on the basis of
+ownerships defined through smart properties. In these organizations, machines
+and people can cooperate without the need to be incorporated into traditional
+business identities.
+The decentralized autonomous organization concept derived from Artificial
+Intelligence: a decentralized network of autonomous agents perform tasks, which
+can be conceived in the model of a corporation running without any human
+involvement under the control of a set of business rules. Such organizations
+can charge users for the services they provide, in order to pay others for the
+resources they need. As long as they receive sufficient funds to operate on their
+own, they can thus subsist independently of any third party. If a decentralized
+organization is truly autonomous, no one (including its original creator) can
+control it after it has been deployed on the blockchain. That is actually a very
+threatening property: an organization could be conceived to evolve over time in
+order to adapt to the context in which it operates, thus it can be very difficult
+to know a priori if it can assume a dangerous state.
+From a different point of view, the concept of decentralized autonomous
+organization can actually be linked to the development of the Internet of Things
+(IoT). The IoT will consist of billions of Internet-enabled devices, but not all can
+be blindly trustworthy and some could be even malicious. In order to facilitate
+private, secure, and (trustless) machine-to-machine coordination, these devices
+will need a central reference point. In this context the ADePT (Autonomous
+Decentralized Peer-to-Peer Telemetry) [17], by IBM and Samsung, is building a
+proof of concept system for the next generation of the IoT

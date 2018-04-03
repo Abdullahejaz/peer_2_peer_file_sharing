@@ -1,0 +1,14 @@
+In this work we will consider the opportunities given by the blockchain,
+analysing its most relevant functionalities and known issues. We will evaluate
+the features specific to Bitcoin, with the intent of pointing out the possible behaviours
+that are not as efficient as they should when thinking with a broader
+outlook. And we will consider some alternatives both in protocols and in systems,
+which represent the already available solution to some acknowledged flaws.
+More in details: in §2, we will review some new potential applications, surveying
+the actual tools that are already implemented and focusing on their functionalities
+related to the blockchain. Then in §3 we will stress the role of the transaction
+concept in the actualization of the blockchain, followed by an inspection of the
+components used to manage the public ledger, with a special look at the case
+of Bitcoin. A discussion on some computational aspects will be presented in §4,
+where some serious inefficiencies will be highlighted. Finally in §5 we will draw
+our conclusions on the blockchain-based system.

@@ -1,0 +1,34 @@
+Smart contracts represent the implementation of a contractual agreement, whose
+legal provisions are formalized into programming code and verified through a
+network of peers [6]. Indeed these contracts are defined through the code and
+executed or enforced by the code, without the need for a trusted third party. An
+example of a smart contract is the enforcement of a bet between two users about
+the maximum humidity level tomorrow. On the following day the contract is
+automatically completed by a software program checking the humidity levels
+provided by a qualified weather service or some given sensors, as stated by the
+contract itself, reading and trasferring funds from the loser’s to the winner’s
+account. Another example is an inheritance gift that becomes available on the
+childs eitheenth birthday. As should be clear from these examples, in order to
+set up a smart contract one needs to choose an event or condition which triggers
+the transaction expected in the contract, and then check with a program that
+the event or condition has occurred.
+According to [4], smart contracts represent a technological advancement to
+the practice of law, which allow contracting parties to structure their relationships
+more efficiently, in a self-executing way and without the ambiguity of
+natural words. Given the reliance on source code, users can model contractual
+performance and simulate the agreement effectiveness before its execution [6].
+We can point out the following three distinctive properties of smart contracts:
+autonomy, self-sufficiency and decentralization [7]. Smart contracts are
+autonomous in the sense that, after their deployment on the blockchain, they no
+longer need heed of their creators. Furthermore, they can accumulate capital
+over time, such as digital currencies or physical assets, and that is what the term
+self-sufficient stands for. Finally, smart contracts are decentralized because they
+are distributed and self-executing across a network of peer nodes.
+Some open source projects have been started in the last years to develop programming
+languages for the easy creation of smart contracts (e.g. [8, 9]). Using
+these programming languages, users will be able to get increasingly sophisticated
+smart contracts, designed to satisfy various requirements and to be used
+in several contexts.
+Two main current projects related to smart contracts are Namecoin and
+Ethereum. We are going to discuss them briefly in the following, in order to gain
+some insight on goals and functions in this kind of blockchain-based systems.

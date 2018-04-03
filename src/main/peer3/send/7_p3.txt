@@ -1,0 +1,81 @@
+As we are going to better explain in §4, Bitcoin’s proof-of-work is a way to get
+a valid and reliable transaction processing by ensuring that a set of peer nodes
+(the miners) compete in solving a computational challenge within a preset time.
+However, the problem to be solved is a kind of artificial puzzle of no practical
+concern (besides, of course, the existence of the network), which requires an
+increasing amount of computational resources over time, and where miners’
+fitness is proportional to their hashing rate. In an attempt to overcome these
+limitations, some alternatives for implementing a requirement like (2) have been
+proposed over time, concerning both the underlying function used to compute
+D and the way  is chosen. These alternatives were introduced mainly in an
+attempt to mitigate threats deriving from accumulators of hashing power. A
+single party, or a pool of them 4 could indeed invest in hardware equipment
+to obtain a substantial percentage of the total hashing power, and with such
+power they could succeed in double-spending by reversing the recent blockchain
+history. Or alternatively they could carry out a denial-of-service by refusing to
+include transactions in the block they generate, unless perhaps the transactions
+useful to their own purposes.As we are going to better explain in §4, Bitcoin’s proof-of-work is a way to get
+a valid and reliable transaction processing by ensuring that a set of peer nodes
+(the miners) compete in solving a computational challenge within a preset time.
+However, the problem to be solved is a kind of artificial puzzle of no practical
+concern (besides, of course, the existence of the network), which requires an
+increasing amount of computational resources over time, and where miners’
+fitness is proportional to their hashing rate. In an attempt to overcome these
+limitations, some alternatives for implementing a requirement like (2) have been
+proposed over time, concerning both the underlying function used to compute
+D and the way  is chosen. These alternatives were introduced mainly in an
+attempt to mitigate threats deriving from accumulators of hashing power. A
+single party, or a pool of them 4 could indeed invest in hardware equipment
+to obtain a substantial percentage of the total hashing power, and with such
+power they could succeed in double-spending by reversing the recent blockchain
+history. Or alternatively they could carry out a denial-of-service by refusing to
+include transactions in the block they generate, unless perhaps the transactions
+useful to their own purposes.As we are going to better explain in §4, Bitcoin’s proof-of-work is a way to get
+a valid and reliable transaction processing by ensuring that a set of peer nodes
+(the miners) compete in solving a computational challenge within a preset time.
+However, the problem to be solved is a kind of artificial puzzle of no practical
+concern (besides, of course, the existence of the network), which requires an
+increasing amount of computational resources over time, and where miners’
+fitness is proportional to their hashing rate. In an attempt to overcome these
+limitations, some alternatives for implementing a requirement like (2) have been
+proposed over time, concerning both the underlying function used to compute
+D and the way  is chosen. These alternatives were introduced mainly in an
+attempt to mitigate threats deriving from accumulators of hashing power. A
+single party, or a pool of them 4 could indeed invest in hardware equipment
+to obtain a substantial percentage of the total hashing power, and with such
+power they could succeed in double-spending by reversing the recent blockchain
+history. Or alternatively they could carry out a denial-of-service by refusing to
+include transactions in the block they generate, unless perhaps the transactions
+useful to their own purposes.As we are going to better explain in §4, Bitcoin’s proof-of-work is a way to get
+a valid and reliable transaction processing by ensuring that a set of peer nodes
+(the miners) compete in solving a computational challenge within a preset time.
+However, the problem to be solved is a kind of artificial puzzle of no practical
+concern (besides, of course, the existence of the network), which requires an
+increasing amount of computational resources over time, and where miners’
+fitness is proportional to their hashing rate. In an attempt to overcome these
+limitations, some alternatives for implementing a requirement like (2) have been
+proposed over time, concerning both the underlying function used to compute
+D and the way  is chosen. These alternatives were introduced mainly in an
+attempt to mitigate threats deriving from accumulators of hashing power. A
+single party, or a pool of them 4 could indeed invest in hardware equipment
+to obtain a substantial percentage of the total hashing power, and with such
+power they could succeed in double-spending by reversing the recent blockchain
+history. Or alternatively they could carry out a denial-of-service by refusing to
+include transactions in the block they generate, unless perhaps the transactions
+useful to their own purposes.As we are going to better explain in §4, Bitcoin’s proof-of-work is a way to get
+a valid and reliable transaction processing by ensuring that a set of peer nodes
+(the miners) compete in solving a computational challenge within a preset time.
+However, the problem to be solved is a kind of artificial puzzle of no practical
+concern (besides, of course, the existence of the network), which requires an
+increasing amount of computational resources over time, and where miners’
+fitness is proportional to their hashing rate. In an attempt to overcome these
+limitations, some alternatives for implementing a requirement like (2) have been
+proposed over time, concerning both the underlying function used to compute
+D and the way  is chosen. These alternatives were introduced mainly in an
+attempt to mitigate threats deriving from accumulators of hashing power. A
+single party, or a pool of them 4 could indeed invest in hardware equipment
+to obtain a substantial percentage of the total hashing power, and with such
+power they could succeed in double-spending by reversing the recent blockchain
+history. Or alternatively they could carry out a denial-of-service by refusing to
+include transactions in the block they generate, unless perhaps the transactions
+useful to their own purposes.

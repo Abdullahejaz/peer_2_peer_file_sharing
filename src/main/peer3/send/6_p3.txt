@@ -1,0 +1,41 @@
+In a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for aIn a proof-of-work, a prover demonstrates to a verifier that she has performed
+a computational work in order to gain access to a resource. The original application
+for this type of protocols was in the context of being able to deter spam
+email, and the main idea was to require the prover to solve a moderately hard
+but easy to verify computational problem tied to a particular email message
+[40]. That is conceptually like affixing a postage stamp to a message: for a

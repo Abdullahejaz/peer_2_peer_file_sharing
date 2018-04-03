@@ -1,0 +1,85 @@
+An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property concept in the context of
+autorship protection is Proof of Existence [16]. Proof of Existence is a web-based
+service used to prove the authorship of things such as software or documents.
+This tool demonstrates document ownership without revealing the information
+it contains, and it can be used to prove that a document was created at a certain
+time. When a user requires the proof of existence for a given digital document,
+the service does not record the content of the document but instead computes a
+digest of its content thanks to a cryptographic hash function. Later, that digest
+is inserted into a block of the blockchain, and the block timestamp becomes
+the document timestamp. If a user tries to insert a modified version of the
+same document, a new digest is created which – with overhelming probability
+– will be completely unrelated to the previous one, because of the properties of
+cryptographic hash functions.An interesting implementation of the smart property 

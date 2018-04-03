@@ -1,0 +1,29 @@
+It’s a miner task to collect new transactions that are taking place on the network
+in the same time , and to assemble these transactions into a transaction block.
+In Bitcoin and other cryptocurrencies, miners are totally free to choose which
+transactions to include in their blocks. Most miners will consider any transaction
+that reaches them over the network, assuming it includes an appropriate
+fee, but nothing forces their choice. This freedom is intended to get resilience
+and performance of the system in case of network delays or faults, since new
+transaction broadcasts do not necessarily need to reach all miners, nor a miner
+has to wait for a minimum of transactions in order to start on working on a new
+block [3, 27]. Actually, it could be also the case that a miner with malevolent
+intentions will decide to mine a block composed of just the generation transaction,
+with the purpose of having a greater chance of getting that block inserted
+in the blockchain. As we will see later, there are very few deterrents to a such
+bad behavior, that would eventually result in lack of faith in the system (see
+§3.6).It’s a miner task to collect new transactions that are taking place on the network
+in the same time , and to assemble these transactions into a transaction block.
+In Bitcoin and other cryptocurrencies, miners are totally free to choose which
+transactions to include in their blocks. Most miners will consider any transaction
+that reaches them over the network, assuming it includes an appropriate
+fee, but nothing forces their choice. This freedom is intended to get resilience
+and performance of the system in case of network delays or faults, since new
+transaction broadcasts do not necessarily need to reach all miners, nor a miner
+has to wait for a minimum of transactions in order to start on working on a new
+block [3, 27]. Actually, it could be also the case that a miner with malevolent
+intentions will decide to mine a block composed of just the generation transaction,
+with the purpose of having a greater chance of getting that block inserted
+in the blockchain. As we will see later, there are very few deterrents to a such
+bad behavior, that would eventually result in lack of faith in the system (see
+§3.6).

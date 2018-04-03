@@ -1,0 +1,106 @@
+Similarly, a transaction output composes of the indication of the destination
+where P intends to transfer those resources and their amount, plus a scripting
+code whose processing should guarantee that only the system nodes indicated
+by P as the recipients can actually redeem such resources.
+Each input must match with an output related to a previous transaction
+which was validated (eventually among others) as a blockchain block. The
+matching between the current transaction input I and a previous transaction
+output O trasforms all the resources provided by O in resources available for I, so
+that to each input can correspond one and only one output. A different situation
+occurs inside a transaction, where zero to many inputs can be associated to
+one or more outpus. A no-input transaction stands for granting some newly
+created resources to one or more outputs, and corresponds to the case of a
+generation transaction in the context of cryptocurrecies. Otherwise, a single- or
+multi-input transaction records a transfer of resources from its input(s) to its
+output(s). The matching rule in this last case is as follows: one or more outputs
+Omn must correspond to each input Im, so that a certain amount of units of
+resource provided by Im is equal to the sum of the amounts related to Omn, net
+of transaction fees which cannot be indicated explicitly.
+As result of the two above matching rules, resource paths start at outputs of
+generation transactions and from standard transaction inputs they branch into
+one or more ouputs, or from multiple transaction inputs they join into a single
+output. Figure 1 shows an example of a chain graph for resource transfers whichSimilarly, a transaction output composes of the indication of the destination
+where P intends to transfer those resources and their amount, plus a scripting
+code whose processing should guarantee that only the system nodes indicated
+by P as the recipients can actually redeem such resources.
+Each input must match with an output related to a previous transaction
+which was validated (eventually among others) as a blockchain block. The
+matching between the current transaction input I and a previous transaction
+output O trasforms all the resources provided by O in resources available for I, so
+that to each input can correspond one and only one output. A different situation
+occurs inside a transaction, where zero to many inputs can be associated to
+one or more outpus. A no-input transaction stands for granting some newly
+created resources to one or more outputs, and corresponds to the case of a
+generation transaction in the context of cryptocurrecies. Otherwise, a single- or
+multi-input transaction records a transfer of resources from its input(s) to its
+output(s). The matching rule in this last case is as follows: one or more outputs
+Omn must correspond to each input Im, so that a certain amount of units of
+resource provided by Im is equal to the sum of the amounts related to Omn, net
+of transaction fees which cannot be indicated explicitly.
+As result of the two above matching rules, resource paths start at outputs of
+generation transactions and from standard transaction inputs they branch into
+one or more ouputs, or from multiple transaction inputs they join into a single
+output. Figure 1 shows an example of a chain graph for resource transfers whichSimilarly, a transaction output composes of the indication of the destination
+where P intends to transfer those resources and their amount, plus a scripting
+code whose processing should guarantee that only the system nodes indicated
+by P as the recipients can actually redeem such resources.
+Each input must match with an output related to a previous transaction
+which was validated (eventually among others) as a blockchain block. The
+matching between the current transaction input I and a previous transaction
+output O trasforms all the resources provided by O in resources available for I, so
+that to each input can correspond one and only one output. A different situation
+occurs inside a transaction, where zero to many inputs can be associated to
+one or more outpus. A no-input transaction stands for granting some newly
+created resources to one or more outputs, and corresponds to the case of a
+generation transaction in the context of cryptocurrecies. Otherwise, a single- or
+multi-input transaction records a transfer of resources from its input(s) to its
+output(s). The matching rule in this last case is as follows: one or more outputs
+Omn must correspond to each input Im, so that a certain amount of units of
+resource provided by Im is equal to the sum of the amounts related to Omn, net
+of transaction fees which cannot be indicated explicitly.
+As result of the two above matching rules, resource paths start at outputs of
+generation transactions and from standard transaction inputs they branch into
+one or more ouputs, or from multiple transaction inputs they join into a single
+output. Figure 1 shows an example of a chain graph for resource transfers whichSimilarly, a transaction output composes of the indication of the destination
+where P intends to transfer those resources and their amount, plus a scripting
+code whose processing should guarantee that only the system nodes indicated
+by P as the recipients can actually redeem such resources.
+Each input must match with an output related to a previous transaction
+which was validated (eventually among others) as a blockchain block. The
+matching between the current transaction input I and a previous transaction
+output O trasforms all the resources provided by O in resources available for I, so
+that to each input can correspond one and only one output. A different situation
+occurs inside a transaction, where zero to many inputs can be associated to
+one or more outpus. A no-input transaction stands for granting some newly
+created resources to one or more outputs, and corresponds to the case of a
+generation transaction in the context of cryptocurrecies. Otherwise, a single- or
+multi-input transaction records a transfer of resources from its input(s) to its
+output(s). The matching rule in this last case is as follows: one or more outputs
+Omn must correspond to each input Im, so that a certain amount of units of
+resource provided by Im is equal to the sum of the amounts related to Omn, net
+of transaction fees which cannot be indicated explicitly.
+As result of the two above matching rules, resource paths start at outputs of
+generation transactions and from standard transaction inputs they branch into
+one or more ouputs, or from multiple transaction inputs they join into a single
+output. Figure 1 shows an example of a chain graph for resource transfers whichSimilarly, a transaction output composes of the indication of the destination
+where P intends to transfer those resources and their amount, plus a scripting
+code whose processing should guarantee that only the system nodes indicated
+by P as the recipients can actually redeem such resources.
+Each input must match with an output related to a previous transaction
+which was validated (eventually among others) as a blockchain block. The
+matching between the current transaction input I and a previous transaction
+output O trasforms all the resources provided by O in resources available for I, so
+that to each input can correspond one and only one output. A different situation
+occurs inside a transaction, where zero to many inputs can be associated to
+one or more outpus. A no-input transaction stands for granting some newly
+created resources to one or more outputs, and corresponds to the case of a
+generation transaction in the context of cryptocurrecies. Otherwise, a single- or
+multi-input transaction records a transfer of resources from its input(s) to its
+output(s). The matching rule in this last case is as follows: one or more outputs
+Omn must correspond to each input Im, so that a certain amount of units of
+resource provided by Im is equal to the sum of the amounts related to Omn, net
+of transaction fees which cannot be indicated explicitly.
+As result of the two above matching rules, resource paths start at outputs of
+generation transactions and from standard transaction inputs they branch into
+one or more ouputs, or from multiple transaction inputs they join into a single
+output. Figure 1 shows an example of a chain graph for resource transfers which

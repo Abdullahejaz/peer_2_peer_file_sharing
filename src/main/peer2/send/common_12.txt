@@ -1,0 +1,217 @@
+At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8At its core, a cryptocurrency is a chain of digital signatures reflecting the coin’s
+paths through the system. A key concept in this context is that of transaction,
+which has an effect similar to a wire transfer between bank accounts. Actually
+it is a data structure which represents a single addressable unit of a block, which
+in turn is the single addressable unit of the blockchain. There are two different
+types of transactions: standard transactions, which encode one or more coin’s
+transfers from some transactor node to one or more recipient nodes of the system,
+and generation transactions, where newly generated coins are granted by
+the system to miners, as a reward for their effort in building the blockchain.
+Every amount of currency which results from a transaction is seen as a pack
+of coins which can be fractionated only through another transaction. Indeed a
+standard transaction does not record a single fund transfer from one point to
+another, but rather represents a scheme with multiple amounts which must be
+balanced: the number of coins - possibly collected from different packs - representing
+the requested amount for a given transaction must match the number
+of coins made available for the possible multiple recipients. In fact also the
+transactor itself can be considered the recipient of the eventual change, which
+represent a new smaller pack of coins.
+8
